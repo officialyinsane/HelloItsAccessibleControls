@@ -6,7 +6,9 @@ This project is aimed at being an extensible mod platform, with the capability t
 
 ## Guiding light
 Accessibility is relatively new to this field, we (as developers) don't always get it right. This is our chance to right the ship, after setting sail.
-See this for a good start on documenting accessibility: https://docs.microsoft.com/en-us/gaming/accessibility/guidelines
+See these for a good start on documenting accessibility: 
+- https://docs.microsoft.com/en-us/gaming/accessibility/guidelines
+- http://gameaccessibilityguidelines.com/
 
 ## How do I contribute?
 At the moment, details are a little light. If you think you might be able to help move the project forwards, however small that contribution might be, feel free to get in touch.
